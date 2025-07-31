@@ -35,7 +35,7 @@ agentic_ai_projects/
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/Trinita21/agentic_ai_projects.git
+git clone https://github.com/Trinita21/GoBot_Agentic_AI_Travel_Planner.git
 cd agentic_ai_projects
 ```
 
