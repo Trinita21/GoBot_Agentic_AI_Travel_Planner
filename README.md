@@ -2,6 +2,9 @@
 
 This is the repository for **GoBot: Agentic-AI Travel Planner**. This project explores advanced AI-driven agentic workflows for an AI-assisted Travel Planner designed to generate personalized trip plans through conversational user input. It takes into account the Location, Weather, Exchange Rate and Currency, and Expense Calculation during the planning process. So this is not "just a chatbot"!
 
+<img width="1039" height="675" alt="Screenshot 2025-07-31 at 16 12 18" src="https://github.com/user-attachments/assets/6d1eb3e8-3653-4948-9e23-1565de6110ec" />
+
+
 ---
 
 ## Overview
